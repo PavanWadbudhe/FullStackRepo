@@ -4,7 +4,8 @@ public class M3 {
 	public void m3() {
 		int a=10;
 		int b=100;
-		int c
+		int c=a+b;
+		System.out.println(c);
 	
-	
+	}
 }
